@@ -1,2 +1,2 @@
 # Python
-Contiene ejercicios practicos
+Contiene ejercicios prácticos
