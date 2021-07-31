@@ -1,1 +1,2 @@
 # Python
+Contiene ejercicios practicos
